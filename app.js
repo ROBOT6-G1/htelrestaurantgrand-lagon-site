@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded', () => { console.log('DEVWEBIA Hotel app loaded successfully.'); });
